@@ -1,2 +1,2 @@
-# SeBOS
-SeBOS( Seminar Boking online sistem)
+SeBOS
+ayo bro di kerjain biar cepet bisa liburan
